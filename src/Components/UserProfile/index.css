@@ -1,0 +1,24 @@
+.profile-side {
+  display: flex;
+  padding: 10px 10px 10px 10px;
+}
+.profileimg {
+  width: 55px;
+  height: 55px;
+  border-radius: 100px;
+}
+.profilename {
+  font-size: 16px;
+  font-weight: bold;
+}
+.time {
+  opacity: 0.7;
+  font-size: 12px;
+  font-weight: 400;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.profile-right {
+  padding-left: 10px;
+  padding-right: 10px;
+}
